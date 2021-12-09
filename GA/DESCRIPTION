@@ -1,0 +1,16 @@
+Package: GA
+Type: Package
+Title: Genetic Algorithms
+Version: 0.1.0
+Author: Preeti Gondi, Wenxin Zhang, Yuxuan Fu
+Maintainer: Preeti Gondi <pgondi@berkeley.edu>, 
+    Wenxin Zhang <wenxin_zhang@berkeley.edu>, 
+    Yuxuan Fu <fyxsherry@berkeley.edu> 
+Description: select is used to implement a genetic algorithm for variable selection in regression problems, including both linear regression and GLMs.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports:
+    tidyverse,
+    assertthat,
+    testthat

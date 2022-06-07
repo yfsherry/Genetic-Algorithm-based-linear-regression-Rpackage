@@ -1,6 +1,6 @@
 # STAT 243 Statistical Computing - Final Project
 
-- Genetic Algorithm based Linear Regression Package
+- Genetic Algorithm based Linear Regression R Package
 
 Group Members: Yuxuan Fu, Preeti Gondi, Wenxin Zhang
 
